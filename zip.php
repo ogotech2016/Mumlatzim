@@ -1,0 +1,1 @@
+<?php echo system("/bin/sh zip.sh"); ?>
